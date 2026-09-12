@@ -59,7 +59,7 @@ hs_err_pid*
 replay_pid*
 
 jenkins
-src/test/java/com/shopdrop/integration
+# src/test/java/com/shopdrop/integration
 src/test/java/com/shopdrop/service
 src/test/java/com/shopdrop/system
 Jenkinsfile
