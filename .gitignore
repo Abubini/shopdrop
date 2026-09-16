@@ -58,23 +58,23 @@ application-local.yml
 hs_err_pid*
 replay_pid*
 
-jenkins
-# src/test/java/com/shopdrop/integration
-src/test/java/com/shopdrop/service
-# src/test/java/com/shopdrop/system
-Jenkinsfile
-.github
-shopdrop\src\test\java\com\shopdrop\system\pages\CheckoutPage.java
-shopdrop\src\test\java\com\shopdrop\system\pages\LoginPage.java
-shopdrop\src\test\java\com\shopdrop\system\pages\OrderStatusPage.java
-shopdrop\src\test\java\com\shopdrop\system\pages\ProductDetailPage.java
-shopdrop\src\test\java\com\shopdrop\system\pages\ProductsPage.java
-shopdrop\src\test\java\com\shopdrop\system\pages\RegisterPage.java
-shopdrop\src\test\java\com\shopdrop\system\RawLocatorAccountAndStockLimitIT.java
-shopdrop\src\test\java\com\shopdrop\system\RawLocatorAdminOperationsIT.java
-shopdrop\src\test\java\com\shopdrop\system\RawLocatorCheckoutOrderLifecycleIT.java
-shopdrop\src\test\java\com\shopdrop\system\RawLocatorShoppingAndCartIT.java
-shopdrop\src\test\java\com\shopdrop\system\RegistrationAndLoginIT.java
-shopdrop\src\test\java\com\shopdrop\system\ReviewSubmissionRawLocatorsIT.java
-shopdrop\src\test\java\com\shopdrop\system\SearchAndCategoryFilterIT.java
-shopdrop\src\test\java\com\shopdrop\system\ShoppingJourneyIT.java
+#jenkins
+## src/test/java/com/shopdrop/integration
+#src/test/java/com/shopdrop/service
+## src/test/java/com/shopdrop/system
+#Jenkinsfile
+#.github
+#shopdrop\src\test\java\com\shopdrop\system\pages\CheckoutPage.java
+#shopdrop\src\test\java\com\shopdrop\system\pages\LoginPage.java
+#shopdrop\src\test\java\com\shopdrop\system\pages\OrderStatusPage.java
+#shopdrop\src\test\java\com\shopdrop\system\pages\ProductDetailPage.java
+#shopdrop\src\test\java\com\shopdrop\system\pages\ProductsPage.java
+#shopdrop\src\test\java\com\shopdrop\system\pages\RegisterPage.java
+#shopdrop\src\test\java\com\shopdrop\system\RawLocatorAccountAndStockLimitIT.java
+#shopdrop\src\test\java\com\shopdrop\system\RawLocatorAdminOperationsIT.java
+#shopdrop\src\test\java\com\shopdrop\system\RawLocatorCheckoutOrderLifecycleIT.java
+#shopdrop\src\test\java\com\shopdrop\system\RawLocatorShoppingAndCartIT.java
+#shopdrop\src\test\java\com\shopdrop\system\RegistrationAndLoginIT.java
+#shopdrop\src\test\java\com\shopdrop\system\ReviewSubmissionRawLocatorsIT.java
+#shopdrop\src\test\java\com\shopdrop\system\SearchAndCategoryFilterIT.java
+#shopdrop\src\test\java\com\shopdrop\system\ShoppingJourneyIT.java
